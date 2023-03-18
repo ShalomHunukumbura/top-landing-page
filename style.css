@@ -54,19 +54,19 @@
     font-size: 20px;
     color: #c8cfd9;
     padding: 20px;
-    width: 13%;
+    width: 19%;
     text-align: center;
     font-weight: bolder;
     
 }
-img{
+.img1{
     height: 200px;
     width: 500px;
     margin-left: 100;
     
 }
 
-/* styles for container2 */
+/* styles for container3 */
 
 .container3{
     display: flex;
@@ -82,4 +82,31 @@ p{
     font-style: italic;
     color: #222933;
     padding: 15%;
+}
+
+/* styles for container2 */
+
+.title{
+    margin-top: 3%;
+    font-size: 27px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 14px;
+    
+}
+.text{
+ 
+    margin-bottom: 10%;
 }
