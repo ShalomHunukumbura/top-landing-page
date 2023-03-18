@@ -1,0 +1,41 @@
+.container1{
+    background: #1f2937 ;
+    padding-left: 7%;
+    padding-right: 6%;
+    padding-bottom: 2%;
+    padding-top: 1%;
+    
+}
+
+.header1{
+    margin-top: 2%;
+    display: flex;
+    margin-bottom: 9%;
+    
+}
+.header1 div{
+    
+}
+.h1_item1{
+    margin-right:45% ;
+    font-size: 18px;
+    color: #f9faf8;
+}
+.header1 > .h1_item2{
+    font-size: 12px ;
+    color: #e5e7eb;
+    flex: 1;
+    margin-left: 2px;
+    
+    
+    
+}
+
+
+
+
+
+img{
+    height: 200px;
+    width: 250px;
+}
