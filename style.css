@@ -1,3 +1,4 @@
+/* container1 */
 .container1{
     background: #1f2937 ;
     padding-left: 7%;
@@ -10,32 +11,135 @@
 .header1{
     margin-top: 2%;
     display: flex;
-    margin-bottom: 9%;
+    margin-bottom: 3%;
     
 }
-.header1 div{
-    
-}
+
 .h1_item1{
     margin-right:45% ;
-    font-size: 18px;
+    font-size: 24px;
     color: #f9faf8;
 }
 .header1 > .h1_item2{
-    font-size: 12px ;
+    font-size: 18px ;
     color: #e5e7eb;
     flex: 1;
-    margin-left: 2px;
+    margin-left: 2px;    
+}
+
+.header2{
+    display: flex;
+}
+
+.left{
+    flex-direction: column;
+    flex: 1;
+    justify-content: flex-end;}
+
+.h2_item3{
+    font-size: 30px;
+    color: #c8cfd9;
+    font-weight: bolder;
+    margin-bottom: 2.5%;
+}
+
+.h2_item4{
+    font-size: 18px;
+    margin-bottom: 5%;
+}
+
+ button{
+    background-color: rgba(20, 101, 223, 0.979);
+    border-radius: 8px;
+    font-size: 20px;
+    color: #c8cfd9;
+    padding: 20px;
+    width: 19%;
+    text-align: center;
+    font-weight: bolder;
     
-    
+}
+.img1{
+    height: 200px;
+    width: 500px;
+    margin-left: 100;
     
 }
 
+/* styles for container3 */
 
+.container3{
+    display: flex;
+    background-color: #e5e7eb;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
 
+p{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: #222933;
+    padding: 15%;
+}
 
+/* styles for container2 */
+
+.title{
+    margin-top: 3%;
+    font-size: 27px;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
 
 img{
-    height: 200px;
     width: 250px;
+    height: 250px;
+    border-radius: 14px;
+    
+}
+.text{
+ 
+    margin-bottom: 10%;
+}
+
+/* styles for container 4  
+*/
+
+.container4{
+    display: flex;
+    background-color:  rgba(20, 101, 223, 0.979);
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    margin:8%;
+    padding: 2%;
+    border-radius: 12px;
+}
+
+.button_c4{
+    background-color: rgba(20, 101, 223, 0.979);
+    width: 10%;
+    height: 7%;
+    border: 2px solid white;
+}
+
+.item_c4_1{
+    color: #e5e7eb;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.item_c4_2{
+    color: #e5e7eb;
+    font-size: 15px;
+
 }
