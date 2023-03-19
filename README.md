@@ -1,5 +1,11 @@
 # top-landing-page
 
+This is the first sample project of The Odin Project
+
+live demo can be seen here:
+    https://shalomhunukumbura.github.io/top-landing-page/
+
+
 copyright of the images use:
 
 - Photo by Chevanon Photography: https://www.pexels.com/photo/close-up-of-coffee-cup-on-table-312418/
