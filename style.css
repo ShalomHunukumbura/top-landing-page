@@ -59,10 +59,11 @@
     font-weight: bolder;
     
 }
-.img1{
+.right img{
     height: 200px;
     width: 500px;
     margin-left: 100;
+    border-radius: 8px;
     
 }
 
@@ -100,7 +101,7 @@ p{
     gap: 50px;
 }
 
-img{
+.info img{
     width: 250px;
     height: 250px;
     border-radius: 14px;
