@@ -110,3 +110,36 @@ img{
  
     margin-bottom: 10%;
 }
+
+/* styles for container 4  
+*/
+
+.container4{
+    display: flex;
+    background-color:  rgba(20, 101, 223, 0.979);
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    margin:8%;
+    padding: 2%;
+    border-radius: 12px;
+}
+
+.button_c4{
+    background-color: rgba(20, 101, 223, 0.979);
+    width: 10%;
+    height: 7%;
+    border: 2px solid white;
+}
+
+.item_c4_1{
+    color: #e5e7eb;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.item_c4_2{
+    color: #e5e7eb;
+    font-size: 15px;
+
+}
